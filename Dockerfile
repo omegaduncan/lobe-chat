@@ -27,7 +27,7 @@ ENV NEXT_PUBLIC_BASE_PATH=""
 ENV NEXT_PUBLIC_SERVICE_MODE="server"
 
 # S3
-ENV NEXT_PUBLIC_S3_DOMAIN="http://minio.zeabur.internal:9000" \
+ENV NEXT_PUBLIC_S3_DOMAIN="http://minio.zeabur.internal:9000" 
 
 # Sentry
 ENV NEXT_PUBLIC_SENTRY_DSN="" \
